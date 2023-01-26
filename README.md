@@ -25,13 +25,8 @@ You can access the project: https://to-do-list-beta-beryl.vercel.app/
 Here's how to run the project 
 
 ``` 
-git clone https://github.com/aridsm/tasks-app.git
-cd tasks-app
+git clone https://github.com/Omniamutanturnihilinterit/To-Do-List.git
+cd To-Do-List
 npm install
 npm start
 ```
-
-## Observações
-
-- Os dados de tarefas, diretórios e darkmode ficam salvos no localStorage do seu navegador. Você pode clicar no botão "delete all data" para removê-los do localStorage.
-- Para fins demonstrativos, o aplicativo possui uma lista padrão de 3 tarefas e 1 diretório chamado "Main".
