@@ -2,22 +2,13 @@
 
 Website de um organizador de tarefas (to-do list) feito com React JS, Tailwind CSS, TypeScript, Redux Toolkit e mais.
 
-![página inicial](https://github.com/aridsm/tasks-app/blob/master/public/To-Do%20List%20_%20All%20tasks.png)
+![image](https://user-images.githubusercontent.com/92959023/214756223-b922b841-53a4-4122-a53a-cd13c7a944b4.png)
 
-## Descrição
+## Purpose
 
-- Aplicado de organizar suas tarefas com os seguintes dados: título, descrição, data, marcar como completo e marcar como importante. 
-- As tarefas são organizadas em rotas: tarefas de hoje, tarefas importantes, incompletas, completas, todas as tarefas e tarefas por diretório (pasta). Os diretórios e as tarefas podem ser editados ou excluídos. Além disso, há um diretório principal chamado "Main" que não pode ser editado ou excluído.
-- A lista de tarefas pode ser exibida primeiro em: mais próximas, mais distantes, completas ou incompletas.
-- Você pode pesquisar por alguma tarefas no campo de pesquisa.
-- As tarefas de hoje são mostradas na seção do usuário e nas notificações.
-- Os dados de tarefas, diretórios e darkmode são salvos no localStorage.
+This project is basically the ultimate destination for practical practicals from TypeScript, Tailwind, Redux Toolkit, and React Js.
 
-## Objetivo
-
-O projeto teve principalmente como objetivo pôr em prática conhecimentos de TypeScript, Tailwind, Redux Toolkit e React Js.
-
-## Ferramentas utilizadas
+## The tools used
 
 - React JS
 - TypeScript
@@ -25,13 +16,13 @@ O projeto teve principalmente como objetivo pôr em prática conhecimentos de Ty
 - Redux Toolkit
 - React Router DOM
 - HTML
-- Figma (prototipagem)
+- Figma (prototype)
 
-## Como testar
+## As an example
 
-Você pode acessar o projeto aqui: https://tasks-app-aridsm.netlify.app/
+You can access the project: https://to-do-list-beta-beryl.vercel.app/
 
-Ou rodar na sua máquina: 
+Here's how to run the project 
 
 ``` 
 git clone https://github.com/aridsm/tasks-app.git
