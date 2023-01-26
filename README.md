@@ -1,6 +1,6 @@
-# 📅 Tasks App (To-Do List)
+# 📅 Tasks App (To-Do-List)
 
-Website de um organizador de tarefas (to-do list) feito com React JS, Tailwind CSS, TypeScript, Redux Toolkit e mais.
+Rate manager website (to-do list) features React JS, Tailwind CSS, TypeScript, Redux Toolkit and more.
 
 ![image](https://user-images.githubusercontent.com/92959023/214756223-b922b841-53a4-4122-a53a-cd13c7a944b4.png)
 
